@@ -7,5 +7,8 @@ My research centers around vegetational responses to environmental change in dee
 1. I am currently working to understand how Australia went from mostly forested (just 10 million years ago!) to mostly grassland today.
 2. I have spent a significant amount of time tracking how plant traits vary in response to changing environmental conditions, to develop paleoclimatic and paleoenvironmental proxies.
 
+## License
+**MIT License:** This license is a simple, user-friendly license that allows easy collaboration and sharing of material.
+
 ## Clone me!
 clone this repository by running this code in your terminal: `git clone https://github.com/UW-ESS-DS/MLgeo2023_blloyd/`
